@@ -1,5 +1,8 @@
+
 python --version  # 应该显示 Python 3.10.x 或更高
+
 node --version    # 应该显示 v16.x.x 或更高
+
 npm --version     # 应该显示 8.x.x 或更高
 
 1) 启动后端
