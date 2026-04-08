@@ -26,4 +26,7 @@ npm install
 # 启动前端
 npm run dev
 
+<img width="1020" height="690" alt="image" src="https://github.com/user-attachments/assets/9fc7c72d-7ac8-4629-b022-931e0be19872" />
 
+
+<img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/b295f6a3-9ef1-42f5-9906-d6c5c1fd362f" />
