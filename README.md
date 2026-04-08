@@ -5,8 +5,8 @@ node --version    # 应该显示 v16.x.x 或更高
 
 npm --version     # 应该显示 8.x.x 或更高
 
-1) # 启动后端
-进入目录
+# 1) 启动后端
+# 进入目录
 cd deepsearch/backend
 
 # 安装依赖
@@ -19,7 +19,7 @@ cp .env.example .env
 python src/main.py
 
 
-2) 启动前端
+# 2) 启动前端
 # 进入目录
 cd deepsearch/frontend
 
